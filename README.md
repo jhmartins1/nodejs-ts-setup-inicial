@@ -1,5 +1,8 @@
 # Algumas bibliotecas pra um setup inicial em Nodejs com TypeScript
-## Versão atualizada 2023
+[![Autor](https://img.shields.io/badge/Autor-João%20Heitor-blue?color=purple)](https://github.com/jhmartins1)
+[![Version](https://img.shields.io/badge/Versão-1.0-blue.svg)](https://github.com/jhmartins1/nodejs-ts-setup-inicial)
+[![Last Updated](https://img.shields.io/github/last-commit/jhmartins1/nodejs-ts-setup-inicial.svg)](https://github.com/jhmartins1/nodejs-ts-setup-inicial/commits/master)
+[![Contributors](https://img.shields.io/github/contributors/jhmartins1/nodejs-ts-setup-inicial.svg)](https://github.com/jhmartins1/nodejs-ts-setup-inicial/graphs/contributors)
 
 - Nodejs - version v16.15.1
 - TypeScript - 5.0.2
