@@ -1,6 +1,7 @@
-# Algumas bibliotecas pra um setup inicial em Nodejs com TypeScript
-[![Autor](https://img.shields.io/badge/Autor-João%20Heitor-blue?color=purple)](https://github.com/jhmartins1)
-[![Version](https://img.shields.io/badge/Versão-1.0-blue.svg)](https://github.com/jhmartins1/nodejs-ts-setup-inicial)
+# Nodejs Setup inicial com TypeScript
+## Algumas bibliotecas pra um setup inicial em Nodejs com TypeScript
+[![Autor](https://img.shields.io/badge/Autor-João%20Heitor-blue?color=blue)](https://github.com/jhmartins1)
+[![Version](https://img.shields.io/badge/Versão-1.0-green.svg)](https://github.com/jhmartins1/nodejs-ts-setup-inicial)
 [![Last Updated](https://img.shields.io/github/last-commit/jhmartins1/nodejs-ts-setup-inicial.svg)](https://github.com/jhmartins1/nodejs-ts-setup-inicial/commits/master)
 [![Contributors](https://img.shields.io/github/contributors/jhmartins1/nodejs-ts-setup-inicial.svg)](https://github.com/jhmartins1/nodejs-ts-setup-inicial/graphs/contributors)
 
